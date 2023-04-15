@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hey, I'm Eros</h1>
+
+I have experience in Python, VB, C#, SQL, HTML5, Adobe Ilustrator and Sony Vegas
+
 
 <!--
 **erosggg/erosggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
