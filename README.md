@@ -5,4 +5,4 @@ some works in Adobe Ilustrator and Sony Vegas
 </br>
 </em></p>
 
-looking for still learning and advancing with my knowledge
+<p align="right">looking for still learning and advancing with my knowledge <p/>
