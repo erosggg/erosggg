@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Eros</h1>
 
-I have experience in Python, VB, C#, SQL, HTML5, Adobe Ilustrator and Sony Vegas
+experience in Python, VB, C#, SQL, HTML5, Adobe Ilustrator and Sony Vegas
 
 
 <!--
