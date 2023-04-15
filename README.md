@@ -4,5 +4,5 @@
 
 </br>
 </em></p>
-some works in Adobe Ilustrator and Sony Vegas
+<p align="right">some works in Adobe Ilustrator and Sony Vegas <p/>
 <p align="right">looking for still learning and advancing with my knowledge <p/>
